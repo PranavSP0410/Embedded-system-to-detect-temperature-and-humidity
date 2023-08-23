@@ -10,7 +10,7 @@ LiquidCrystal_I2C lcd2(0x3F,20,4);
 #define alarm 9
 #define inter 3
 #define inter_call 12
-
+  
 
 int val1;
 int val2;
